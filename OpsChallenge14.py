@@ -1,6 +1,12 @@
 #!/usr/bin/python3
 # This line specifies the Python interpreter to be used for running the script.
 
+# Script Name:                  Ops Challenge: Python Malware Analysis
+# Author:                       Kevin Hoang
+# Date of latest revision:      12/14/2023
+# Purpose:                      Analyze a malicious script written in Python and submit an interpreted version of the file with comments.
+# Execution:                    OpsChallenge14.py
+
 import os
 import datetime
 
